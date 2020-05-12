@@ -1,0 +1,1 @@
+Adds a Vineshroom pet to the game, crafted using mushrooms and glowing mushrooms.
